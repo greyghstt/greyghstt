@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rangga Aji Satria</h1>
+<h1 align="center">Hi, I'm Rangga</h1>
 
 <p align="center">
   Electronics and Instrumentation student at <b>Universitas Gadjah Mada</b><br>
@@ -20,3 +20,11 @@
 <p align="center">
   <i>Learning by building small experiments, tools, and systems.</i>
 </p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyghstt&layout=compact&theme=vue-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
